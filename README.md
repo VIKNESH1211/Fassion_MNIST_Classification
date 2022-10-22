@@ -28,4 +28,4 @@ Four machine_learning models and three deep_learning models were trained out of 
 | Support_Vector_Machines | 0.8402 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/Fassion_MNIST_classifiers.ipynb) | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/svm_conf_matrix.png) |
 
 ##  ANN1 the model with the most accuracy
-
+The ANN1 model is a simple ANN with only one hidden layer which uses RELU as its activation function and the hidden layer uses SOFTMAX as this is a classification problem. the model takes in a input of 784 pixels and gives a output of 10 probabilities threfore the hidden layer follows the rule {(2/3 * input) + output} which gives 532 outputs from the hidden layer. The model gives a surprisingly good accuracy of 97% in the test data.
