@@ -19,6 +19,6 @@ There are a total number of 10 classes of images and every image has its label.
 Four machine_learning models and three deep_learning models were trained out of which the custom designed cnn model named CNN2 gave the best results. Below are the resuls of different models.
 
 | MODEL_NAME  | ACCURACY | F1 SCORE | CODE | 
-| ------------- | ------------- | ------------- | ------------- 
-| CNN2  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| CNN2  | 0.9008  | - | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/CNN2/Fassion_mnist_cnn2.ipynb) |
 | Content Cell  | Content Cell  |
