@@ -28,7 +28,7 @@ Four machine_learning models and three deep_learning models were trained out of 
 | Support_Vector_Machines | 0.8402 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/Fassion_MNIST_classifiers.ipynb) |
 
 <p align="center" style="background-color:#FFFFFF;">
-  <img src="https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/KNN/confusion%20matrix.png" width="200" alt="accessibility text" style = "background-color:#FFFFFF;">
-  <img src="https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Random%20forest/download%20(1).png" width="200" alt="accessibility text" style = "background-color:#FFFFFF;">
-  <img src="https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/svm_conf_matrix.png" width="200" alt="accessibility text" style = "background-color:#FFFFFF;">
+  <p> KNN <img src="https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/KNN/confusion%20matrix.png" width="200" alt="accessibility text" style = "background-color:#FFFFFF;"> </p>
+  <p> RFC <img src="https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Random%20forest/download%20(1).png" width="200" alt="accessibility text" style = "background-color:#FFFFFF;"> </p>
+  <p> SVM <img src="https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/svm_conf_matrix.png" width="200" alt="accessibility text" style = "background-color:#FFFFFF;"> </p>
 </p>
