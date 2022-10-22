@@ -6,3 +6,7 @@ ____
 
 # ABOUT THE DATA SET
 The images and labels used to train all the models in the repositary was loaded directly from KERAS using the below command
+```sh
+# To load data
+(x_train,y_train),(x_test,y_test) = tf.keras.datasets.fassion_mnist.load_data()
+```
