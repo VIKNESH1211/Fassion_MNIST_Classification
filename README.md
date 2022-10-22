@@ -16,5 +16,9 @@ Each image has a resolution of 28X28 which gives us 784 pixels when flattened.
 There are a total number of 10 classes of images and every image has its label.
 
 ## CLASSIFICATION MODELS
+Four machine_learning models and three deep_learning models were trained out of which the custom designed cnn model named CNN2 gave the best results. Below are the resuls of different models.
 
-
+| MODEL_NAME  | ACCURACY | F1 SCORE | CODE | 
+| ------------- | ------------- | ------------- | ------------- 
+| CNN2  | Content Cell  |
+| Content Cell  | Content Cell  |
