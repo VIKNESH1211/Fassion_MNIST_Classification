@@ -20,5 +20,5 @@ Four machine_learning models and three deep_learning models were trained out of 
 
 | MODEL_NAME  | ACCURACY | F1 SCORE | CODE | 
 | ------------- | ------------- | ------------- | ------------- |
-| CNN2  | 0.9008  | - | [🔗!](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/CNN2/Fassion_mnist_cnn2.ipynb) |
+| CNN2  | 0.9008  | - | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/CNN2/Fassion_mnist_cnn2.ipynb) |
 | Content Cell  | Content Cell  |
