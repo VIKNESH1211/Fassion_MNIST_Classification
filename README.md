@@ -10,3 +10,6 @@ The images and labels used to train all the models in the repositary was loaded 
 # To load data
 (x_train,y_train),(x_test,y_test) = tf.keras.datasets.fassion_mnist.load_data()
 ```
+The train data has 60000 samples and the test data has 10000 samples which sums up to a total of 70000 samples.
+Each image has a resolution of 28X28 which gives us 784 pixels when flattened.
+
