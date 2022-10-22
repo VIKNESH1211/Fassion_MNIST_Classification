@@ -14,3 +14,7 @@ The train data has 60000 samples and the test data has 10000 samples which sums 
 Each image has a resolution of 28X28 which gives us 784 pixels when flattened.
 
 There are a total number of 10 classes of images and every image has its label.
+
+## CLASSIFICATION MODELS
+
+
