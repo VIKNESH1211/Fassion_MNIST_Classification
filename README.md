@@ -4,7 +4,7 @@
 This repository consists of different classification models trained on the Fassion Mnist data set.
 ____
 
-# ABOUT THE DATA SET
+## ABOUT THE DATA SET
 The images and labels used to train all the models in the repositary was loaded directly from KERAS using the below command
 ```sh
 # To load data
@@ -13,3 +13,4 @@ The images and labels used to train all the models in the repositary was loaded 
 The train data has 60000 samples and the test data has 10000 samples which sums up to a total of 70000 samples.
 Each image has a resolution of 28X28 which gives us 784 pixels when flattened.
 
+There are a total number of 10 classes of images and every image has its label.
