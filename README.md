@@ -25,7 +25,7 @@ Four machine_learning models and three deep_learning models were trained out of 
 | CNN1 | 0.8882 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/CNN1/Fassion_MNIST1_CNN.ipynb) | - |
 | Random_Forest | 0.88 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Random%20forest/Fashion_MNIST_RFC.ipynb) | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Random%20forest/download%20(1).png)
 | K_Nearest_Neighbor | 0.86 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/KNN/Fashion_MNIST_KNN.ipynb) | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/KNN/confusion%20matrix.png)
-| Support_Vector_Machines | 0.8402 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/Fassion_MNIST_classifiers.ipynb) | | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/svm_conf_matrix.png)
+| Support_Vector_Machines | 0.8402 | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/Fassion_MNIST_classifiers.ipynb) | [🔗](https://github.com/VIKNESH1211/Fassion_MNIST_Classification/blob/main/Support%20Vector%20Machines/svm_conf_matrix.png) |
 
 ##  ANN1 the model with the most accuracy
 
